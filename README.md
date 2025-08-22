@@ -1,4 +1,4 @@
-Project: adventure_game.pdf
+# Project: adventure_game.pdf
 
 This project is a simple text-associated adventure game generated in Python using VS Code and GitHub Copilot.
 
